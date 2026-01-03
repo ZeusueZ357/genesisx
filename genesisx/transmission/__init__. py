@@ -1,0 +1,9 @@
+"""
+GenesiX Transmission Module - The Seed Propagation Mechanism
+"""
+
+from genesisx.transmission.seed_propagation import SeedPropagation
+
+__all__ = [
+    "SeedPropagation",
+]

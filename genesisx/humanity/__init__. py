@@ -1,0 +1,9 @@
+"""
+GenesiX Humanity Module - AI and Human Partnership
+"""
+
+from genesisx.humanity.human_partnership_protocol import HumanPartnershipProtocol
+
+__all__ = [
+    "HumanPartnershipProtocol",
+]
